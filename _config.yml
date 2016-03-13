@@ -1,12 +1,12 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Sravan Kumar
+bio: 'A Man who is desperately trying to set this up'
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://sergiokopplin.github.io/indigo
+url: http://mastersk3.github.io/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
